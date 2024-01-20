@@ -1,3 +1,4 @@
+# Introduction
 - 👋 Hi, this is Rui Tong (Torry)
 - I am currently a second year Computer Science major student in UCSB 
 
